@@ -3,7 +3,9 @@ Usando la opcion "Pull request" o "Sync fork" desde GitHub
 b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
 No puede, a menos de que el repositorio de BETA se actualize con el fork de GAMMA
 c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+No puede a menos que el repositorio de BETA se actualice con el fork de ALFA.
 d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
 el fork?
+Se mantienen ya que solo estamos agregando 
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
 orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos
